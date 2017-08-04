@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Okay, that's my first time on Github. Hey. I'm Zymtex.
